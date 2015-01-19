@@ -2,3 +2,4 @@ flask
 gunicorn
 newrelic
 bugsnag
+blinker
